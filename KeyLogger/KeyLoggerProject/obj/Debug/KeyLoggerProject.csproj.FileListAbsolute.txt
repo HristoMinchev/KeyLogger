@@ -1,0 +1,8 @@
+D:\VisualStudio Projects\KeyLoggerProject\KeyLoggerProject\bin\Debug\KeyLoggerProject.exe.config
+D:\VisualStudio Projects\KeyLoggerProject\KeyLoggerProject\bin\Debug\KeyLoggerProject.exe
+D:\VisualStudio Projects\KeyLoggerProject\KeyLoggerProject\bin\Debug\KeyLoggerProject.pdb
+D:\VisualStudio Projects\KeyLoggerProject\KeyLoggerProject\obj\Debug\KeyLoggerProject.csproj.AssemblyReference.cache
+D:\VisualStudio Projects\KeyLoggerProject\KeyLoggerProject\obj\Debug\KeyLoggerProject.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio Projects\KeyLoggerProject\KeyLoggerProject\obj\Debug\KeyLoggerProject.csproj.CoreCompileInputs.cache
+D:\VisualStudio Projects\KeyLoggerProject\KeyLoggerProject\obj\Debug\KeyLoggerProject.exe
+D:\VisualStudio Projects\KeyLoggerProject\KeyLoggerProject\obj\Debug\KeyLoggerProject.pdb
